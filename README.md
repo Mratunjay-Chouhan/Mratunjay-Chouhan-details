@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mratunjay-Chouhan
-- 👀 I’m interested in Data Science and its applications
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @Mratunjay-Singh
+- 👀 I’m icurrently working as a Technical Recruiter at a MNC called YASH Technologies, where I work on recruitement for USA market for internal as well as client requirement.
+- I’m here on GitHub as I took a course to upscale myself in an interesting field of Web Development.
 - 📫 How to reach me at mratunjaysingh70@gmail.com
 
 <!---
